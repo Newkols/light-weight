@@ -1,0 +1,75 @@
+body {
+    background-color: rgb(126, 231, 245); 
+    font-family: arial"
+}
+.first {
+    font-size: 50px; 
+    color: rgb(252, 5, 5); 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#abc {
+    font-size: 35px; 
+    color: rgb(253, 122, 0); 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+li {
+    font-size: 30px; 
+    color: rgb(50, 28, 112); 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2 {
+    font-size: 40px; 
+    color: rgb(224, 240, 6); 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.second {
+    font-size: 30px; 
+    color: rgb(220, 6, 240); 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+label {
+    font-size: 20px; 
+    color: rgb(220, 6, 240); 
+    font-family: 'Times New Roman', Times, serif;
+}
+p > span {
+    font-size: 15px; 
+    color: rgb(8, 8, 8); 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+tr {
+    font-size: 15px; 
+    color: rgb(4, 99, 47); 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1.first {
+    text-align: center
+}
+.center {
+    display: block;
+    margin: 0 auto;
+  }
+.third {
+    margin-left: 39%;
+}
+.lefting {
+    float:left;
+    margin: 7px 7px 7px 0;
+}
+.support {
+    font-size: 60px; 
+    color: rgb(240, 6, 6); 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    display: block;
+}
+.fourth {
+    font-size: 50px; 
+    color: rgb(252, 5, 5); 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fourth {
+    font-size: 50px; 
+    color: rgb(252, 215, 5); 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
